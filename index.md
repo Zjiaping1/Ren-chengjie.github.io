@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Welcome"
+ home
+ ---Welcome
 ---
 
 <div align="center">
