@@ -3,9 +3,8 @@
  ---Welcome
 ---
 
-<div align="center">
-  <img src="/images/ren-profile.jpg" alt="Chengjie Ren" width="160" style="border-radius: 50%; margin-bottom: 10px;">
-</div>
+<img src="/images/ren-profile.jpg" alt="Chengjie Ren" width="160" style="border-radius: 50%; margin-bottom: 10px;">
+
 
 # Chengjie Ren
 
