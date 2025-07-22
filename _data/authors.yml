@@ -5,6 +5,13 @@ location: "Ankang, Shaanxi Province, China"
 email: "rencj1991@nwsuaf.edu.cn"
 avatar: "/images/ren-profile.jpg"
 
+# 社交与科研平台链接
 orcid: "https://orcid.org/0000-0003-4959-3129"
+google_scholar: "https://scholar.google.com/citations?user=FjwhLQsAAAAJ"
 researchgate: "https://www.researchgate.net/scientific-contributions/Cheng-Jie-Ren-2177191772"
+github: "https://github.com/Ren-chengjie"
 homepage: "https://nxy.nwafu.edu.cn/szdw/zjrc/cef9a16ea1404c7799678d14f1166663.htm"
+
+# 其他可选字段（可根据模板支持情况添加）
+linkedin: ""        # 若你使用领英，可填入链接
+twitter: ""         # 若你活跃于推特，可填入链接
