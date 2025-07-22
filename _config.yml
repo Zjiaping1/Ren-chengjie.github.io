@@ -1,14 +1,3 @@
-# 基本站点信息
-title: "Chengjie Ren / Academic Homepage"
-name: "Chengjie Ren"
-description: "Professor of Soil Microbial Ecology at Northwest A&F University"
-locale: "en-US"
-url: "https://Ren-chengjie.github.io"
-baseurl: ""
-repository: "Ren-chengjie/Ren-chengjie.github.io"
-
-include_author: true  # ✅ 新增：确保启用作者信息
-
 # 作者信息（用于左侧栏）
 author:
   name: "Chengjie Ren"
