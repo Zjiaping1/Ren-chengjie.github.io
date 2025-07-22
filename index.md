@@ -1,4 +1,8 @@
-
+---
+layout: single
+sidebar: true
+author_profile: true
+---
 
 
 ---
