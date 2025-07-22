@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="/images/ren-profile.jpg" width="160" style="border-radius: 50%; margin-bottom: 10px;">
+  <img src="./images/ren-profile.jpg" width="160" style="border-radius: 50%; margin-bottom: 10px;">
 </div>
 
 # Chengjie Ren
