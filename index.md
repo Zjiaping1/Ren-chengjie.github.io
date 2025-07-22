@@ -5,13 +5,12 @@ title: "Welcome"
 
 # Chengjie Ren
 
-Professor in Soil Microbial Ecology  
+Professor  
 Northwest A&F University, China  
 
 📍 Research Areas:
 - Soil carbon cycling
-- Microbial carbon use efficiency (CUE)
-- Ecosystem modeling and data workflows
+- soil microbial ecology
 
 🔗 [View CV](./cv)  
 📚 [Publications](./publications)  
