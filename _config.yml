@@ -1,23 +1,77 @@
-# Author settings
+# 基本站点信息
+title: "Chengjie Ren / Academic Homepage"
+name: "Chengjie Ren"
+description: "Professor of Soil Microbial Ecology at Northwest A&F University"
+locale: "en-US"
+url: "https://Ren-chengjie.github.io"  # 改为你的 GitHub Pages 地址
+baseurl: ""  # 如果部署在根目录，保持为空
+repository: "Ren-chengjie/Ren-chengjie.github.io"
+
+# 作者信息（用于左侧栏）
 author:
   name: "Chengjie Ren"
-  avatar: "/images/ren-profile.jpg"  # 确保图片存在于 images/ 文件夹中
+  avatar: "/images/ren-profile.jpg"
   bio: "Professor of Soil Microbial Ecology at Northwest A&F University"
   location: "Ankang, Shaanxi Province, China"
   email: "rencj1991@nwsuaf.edu.cn"
-  links:
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=FjwhLQsAAAAJ"
-    - label: "ORCID"
-      icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0002-XXXX-XXXX"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Ren-chengjie"
-    - label: "ResearchGate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Chengjie-Ren"
-    - label: "Official Profile"
-      icon: "fas fa-university"
-      url: "https://nxy.nwafu.edu.cn/szdw/zjrc/cef9a16ea1404c7799678d14f1166663.htm"
+  googlescholar: "https://scholar.google.com/citations?user=FjwhLQsAAAAJ"
+  orcid: "https://orcid.org/0000-0003-4959-3129"
+  github: "https://github.com/Ren-chengjie"
+  researchgate: "https://www.researchgate.net/scientific-contributions/Cheng-Jie-Ren-2177191772"
+  homepage: "https://nxy.nwafu.edu.cn/szdw/zjrc/cef9a16ea1404c7799678d14f1166663.htm"
+
+# 默认页面布局设置
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+# 插件设置（保持默认即可）
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
+
+# Markdown 设置
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  toc_levels: 1..6
+
+# 时间与分页设置
+timezone: Asia/Shanghai
+paginate: 5
+paginate_path: /page:num/
+
+# 社交分享设置（可选）
+twitter:
+  username: ""
+facebook:
+  username: ""
+linkedin:
+  username: ""
+
+# 归档设置（可选）
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
