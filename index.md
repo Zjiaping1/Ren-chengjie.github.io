@@ -19,7 +19,7 @@ author_profile: true
 
 Professor  of Northwest A&F University, China  
 
-##
+
 I’m a professor and doctoral advisor at Northwest A&F University, China, born in December 1990 in Ankang, Shaanxi Province, and a member of the Communist Party of China. I received my bachelor's degree in Agronomy from Northwest A&F University in 2013, and completed my Ph.D. in the same discipline in June 2018. Upon graduation, I joined the university faculty and have remained engaged in research and mentorship.
 
 In 2017, I conducted collaborative research at the University of Oklahoma and Northern Arizona University in the United States. Over the years, I’ve been honored to be selected for several national and provincial talent programs, including:
