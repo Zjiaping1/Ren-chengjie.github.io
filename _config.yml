@@ -1,7 +1,7 @@
 # 作者信息（用于左侧栏）
 author:
   name: "Chengjie Ren"
-  avatar: "/images/ren-profile.jpg"
+  avatar: "./images/ren-profile.jpg"
   bio: "Professor of Soil Microbial Ecology at Northwest A&F University"
   location: "Ankang, Shaanxi Province, China"
   email: "rencj1991@nwsuaf.edu.cn"
